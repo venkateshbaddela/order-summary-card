@@ -29,7 +29,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](screenshot/screenshot.jpg)
+![](https://github.com/venkateshbaddela/order-summary-card/blob/master/screenshot/screenshot.png)
 
 ### Links
 
